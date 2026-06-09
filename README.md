@@ -7,7 +7,7 @@ Sistema de estoque simples em Python para adicionar, remover e consultar produto
 - Dicionários e dicionários aninhados
 - Funções com `def` e `return`
 - Condicionais (`if/else`)
-- Manipulação de dicionários (`pop`, `update`, `items`)
+- Manipulação de dicionários (`pop`, `items`)
 - `lambda` e `max()` com `key`
 
 ## ⚙️ Funcionalidades
@@ -22,7 +22,7 @@ Sistema de estoque simples em Python para adicionar, remover e consultar produto
 1. Certifique-se de ter o [Python](https://www.python.org/) instalado
 2. Clone o repositório:
    ```bash
-   git clone https://github.com/AugustProgramming/estoque-loja.git
+   git clone https://github.com/AugustProgramming/Estoque-loja.git
    ```
 3. Acesse a pasta:
    ```bash
